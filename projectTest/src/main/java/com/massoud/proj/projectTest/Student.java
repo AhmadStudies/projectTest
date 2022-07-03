@@ -6,4 +6,5 @@ public class Student {
 	String surname;
 	String address;
 	String postalCod;
+	String school;
 }
