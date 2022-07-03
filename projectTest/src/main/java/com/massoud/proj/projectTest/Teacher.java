@@ -6,6 +6,9 @@ public class Teacher {
 		// TODO Auto-generated method stub
 		int book = 20;
 		String ty = 30 +"" ;
+		
+		int hh = 52;
+		String bb = "sfsdfdf";
 	}
 
 }
