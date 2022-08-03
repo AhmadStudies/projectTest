@@ -6,6 +6,9 @@ public class Student {
 	String surname;
 	String address;
 	String postalCod;
+
+	String ss;
+
 	public String getName() {
 		return name;
 	}
